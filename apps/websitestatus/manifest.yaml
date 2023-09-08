@@ -1,0 +1,8 @@
+---
+id: website-status
+name: Website Status
+summary: Displays website status
+desc: 'Displays whether a website is up or down based on a couple different choices: 1. A URL returns a status of 200. 2. A CSS selector is found on the page.'
+author: 'sledsworth'
+fileName: website_status.star
+packageName: websitestatus
