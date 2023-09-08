@@ -26,3 +26,6 @@ BUILD.bazel
 *.webp
 *.gif
 *.tar.gz
+
+# IDE
+.nova/
